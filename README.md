@@ -187,8 +187,8 @@ Project Link: [https://github.com/KaorusWorld/AQW-SQL-Tool](https://github.com/K
 [build-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/releases
 [contributors-shield]: https://img.shields.io/github/contributors/KaorusWorld/AQW-SQL-Tool.svg
 [contributors-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/graphs/contributors
-[commitactivity-shield]: https://img.shields.io/github/commit-activity/m/badges/shields/KaorusWorld/AQW-SQL-Tool.svg
-[commitactivity-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/graphs/contributors
+[commitactivity-shield]: https://img.shields.io/github/commit-activity/m/KaorusWorld/AQW-SQL-Tool.svg
+[commitactivity-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/pulse
 [forks-shield]: https://img.shields.io/github/forks/KaorusWorld/AQW-SQL-Tool.svg
 [forks-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/network/members
 [stars-shield]: https://img.shields.io/github/stars/KaorusWorld/AQW-SQL-Tool.svg
