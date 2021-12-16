@@ -24,7 +24,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![GPL v3 License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Discord][discord-shield]][discord-url]
 
 
 
@@ -203,6 +203,6 @@ Project Link: [https://github.com/KaorusWorld/AQW-SQL-Tool](https://github.com/K
 [issues-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/issues
 [license-shield]: https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge 
 [license-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[discord-shield]: https://img.shields.io/badge/-Discord-purple.svg?style=for-the-badge&logo=Discord&colorB=555
+[discord-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.PNG
