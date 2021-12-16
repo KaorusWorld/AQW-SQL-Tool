@@ -182,7 +182,7 @@ Project Link: [https://github.com/KaorusWorld/AQW-SQL-Tool](https://github.com/K
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[build-shield]: https://img.shields.io/badge/build-passing-green.svg?style=for-the-badge
+[build-shield]: https://img.shields.io/badge/build-passing-green.svg
 [build-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/releases
 [contributors-shield]: https://img.shields.io/github/contributors/KaorusWorld/AQW-SQL-Tool.svg
 [contributors-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/graphs/contributors
