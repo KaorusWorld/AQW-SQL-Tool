@@ -17,6 +17,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
+[![Build][build-shield]][build-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -188,6 +190,9 @@ Project Link: [https://github.com/KaorusWorld/AQW-SQL-Tool](https://github.com/K
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[build-shield]: https://img.shields.io/badge/build-passing-green.svg?style=for-the-badge
+[build-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/releases
 [contributors-shield]: https://img.shields.io/github/contributors/KaorusWorld/AQW-SQL-Tool.svg?style=for-the-badge
 [contributors-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/KaorusWorld/AQW-SQL-Tool.svg?style=for-the-badge
