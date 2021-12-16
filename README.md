@@ -9,6 +9,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+[![Version][version-shield]][version-url]
 [![Build][build-shield]][build-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![CommitActivity][commitactivity-shield]][commitactivity-url]
@@ -183,6 +184,8 @@ Project Link: [https://github.com/KaorusWorld/AQW-SQL-Tool](https://github.com/K
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[version-shield]: https://img.shields.io/badge/version-1.0.0-blue.svg
+[version-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/releases
 [build-shield]: https://img.shields.io/badge/build-passing-green.svg
 [build-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/releases
 [contributors-shield]: https://img.shields.io/github/contributors/KaorusWorld/AQW-SQL-Tool.svg
