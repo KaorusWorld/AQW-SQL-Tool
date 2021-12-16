@@ -182,17 +182,17 @@ Project Link: [https://github.com/KaorusWorld/AQW-SQL-Tool](https://github.com/K
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[build-shield]: https://img.shields.io/badge/build-passing-green.svg?style=for-the-badge
+[build-shield]: https://img.shields.io/build-passing-green.svg?style=for-the-badge
 [build-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/releases
 [contributors-shield]: https://img.shields.io/github/contributors/KaorusWorld/AQW-SQL-Tool.svg
 [contributors-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KaorusWorld/AQW-SQL-Tool.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/KaorusWorld/AQW-SQL-Tool.svg
 [forks-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/network/members
-[stars-shield]: https://img.shields.io/github/stars/KaorusWorld/AQW-SQL-Tool.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/KaorusWorld/AQW-SQL-Tool.svg
 [stars-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/stargazers
-[issues-shield]: https://img.shields.io/github/issues/KaorusWorld/AQW-SQL-Tool.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/KaorusWorld/AQW-SQL-Tool.svg
 [issues-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/issues
-[license-shield]: https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge 
+[license-shield]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [license-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/blob/master/LICENSE.txt
 [discord-shield]: https://img.shields.io/discord/897970977475031050?logo=discord
 [discord-url]: https://discord.com/invite/FEKzPZrpKz
