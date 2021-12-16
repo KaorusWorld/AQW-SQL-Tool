@@ -204,5 +204,5 @@ Project Link: [https://github.com/KaorusWorld/AQW-SQL-Tool](https://github.com/K
 [license-shield]: https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge 
 [license-url]: https://github.com/KaorusWorld/AQW-SQL-Tool/blob/master/LICENSE.txt
 [discord-shield]: https://img.shields.io/badge/-Discord-purple.svg?style=for-the-badge&logo=Discord&colorB=555
-[discord-url]: https://linkedin.com/in/linkedin_username
+[discord-url]: https://discord.com/invite/FEKzPZrpKz
 [product-screenshot]: images/screenshot.PNG
