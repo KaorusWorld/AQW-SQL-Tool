@@ -38,7 +38,7 @@
 <h3 align="center">AQW SQL TOOL</h3>
 
   <p align="center">
-    project_description
+    [project_description]
     <br />
     <a href="https://github.com/KaorusWorld/AQW-SQL-Tool"><strong>Explore the docs »</strong></a>
     <br />
