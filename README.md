@@ -33,7 +33,7 @@
     <img src="images/logo.png" alt="Logo" width="120" height="80">
   </a>
 
-<h3 align="center">AQW Sql Tool</h3>
+<h3 align="center">AQW SQL TOOL</h3>
 
   <p align="center">
     project_description
@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-AQW SQL TOOL is a tool being developed for the purpose of simplifying the act of porting various items, quests, maps, etc... from Adventure Quest Worlds to private servers!
+AQW SQL TOOL is a tool being developed for the purpose of simplifying the act of porting various items, quests, maps, etc... from Adventure Quest Worlds to private server environments!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
