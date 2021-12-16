@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/KaorusWorld/AQW-SQL-Tool">
-    <img src="images/logo.png" alt="Logo" width="140" height="80">
+    <img src="images/logo.png" alt="Logo" width="120" height="80">
   </a>
 
   <h3 align="center">AQW SQL Tool</h3>
